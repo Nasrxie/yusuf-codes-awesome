@@ -5,7 +5,7 @@ const SkillsSection = () => {
     {
       icon: Code2,
       title: 'Languages',
-      skills: ['C++', 'Java', 'Python']
+      skills: ['C++', 'C#', 'Java', 'Python', 'JavaScript', 'HTML', 'CSS']
     },
     {
       icon: Cpu,
